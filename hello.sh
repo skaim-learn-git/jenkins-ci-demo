@@ -1,1 +1,1 @@
-echo "Hello from GitHub CI"
+echo "Hello from GitHub CI - now Automated"
